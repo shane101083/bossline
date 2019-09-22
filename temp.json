@@ -1,0 +1,94 @@
+{
+    "admin": {
+        "u4b9e74efaa8bb22757fa4499deddf06f": true
+    },
+    "autoAdd": true,
+    "autoJoin": true,
+    "autoJoinTicket": true,
+    "autoLeave": true,
+    "autoRead": false,
+    "blacklist": {},
+    "blacklistbot": {
+        "u3f565421d81d720a74fdb0641fc58b98": true,
+        "u7303427aa48965888adbf346b5776f1a": true,
+        "u7393700c927cd7386735bef0f6ba04c2": true,
+        "u814fc1acd30e54b7a4b17d7584ed060a": true,
+        "u96ea1bf5591bde8abd10daf9cd78507c": true,
+        "uac3b1a0889b8d04bd16565e35251f584": true,
+        "ub2bc497d8545ff1bb598dcc61f8b4199": true,
+        "ub7136e590ce0355936240e7375219788": true
+    },
+    "canceljoin": false,
+    "cancelprotect": false,
+    "changeGroupPicture": {},
+    "changePicture": {},
+    "checkSticker": false,
+    "contact": false,
+    "dblack": false,
+    "dblacklist": false,
+    "detectMention": false,
+    "inviteprotect": {
+        "c07ee51691bf9235905b5318376b7d244": true,
+        "c1f54c060e7d2325726f2f5b8a8e30e4a": true,
+        "c434b5ef1484132d969b2903e2e55b859": true,
+        "c9952a62d68eaa58d7cbe283921330ec2": true
+    },
+    "keyCommand": "",
+    "kickerjoin": false,
+    "kickjoin": false,
+    "kickmeber": true,
+    "lang": "JP",
+    "mimic": {
+        "copy": false,
+        "status": true,
+        "target": {
+            "ud4d2c8cbf1429842fc2f65e7f044647c": true
+        }
+    },
+    "protect": {
+        "c07ee51691bf9235905b5318376b7d244": true,
+        "c1f54c060e7d2325726f2f5b8a8e30e4a": true,
+        "c4c0bda67d3d11c4e792a1cc34e8d0ae1": true,
+        "c52d3669d4ce21cfed4059ca6679e72ec": true,
+        "cbc1a6f25417cf4e748b312a60a8003de": true,
+        "cc755843d8f015d0ea630ec330c57688c": true,
+        "ce695aededf85bc2141cd16159bca3728": true,
+        "cff1275f3657aa17adb746a07ce7b8769": true
+    },
+    "qrprotect": {
+        "c07ee51691bf9235905b5318376b7d244": true,
+        "c1f54c060e7d2325726f2f5b8a8e30e4a": true,
+        "c434b5ef1484132d969b2903e2e55b859": true,
+        "c4c0bda67d3d11c4e792a1cc34e8d0ae1": true,
+        "c52d3669d4ce21cfed4059ca6679e72ec": true,
+        "cbc1a6f25417cf4e748b312a60a8003de": true,
+        "cc755843d8f015d0ea630ec330c57688c": true,
+        "cff1275f3657aa17adb746a07ce7b8769": true
+    },
+    "reread": true,
+    "timeline": false,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "wblack": false,
+    "wblacklist": false
+}
